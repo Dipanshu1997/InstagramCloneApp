@@ -1,4 +1,4 @@
-package com.example.tvapp.ui.dashboard;
+package com.example.instagramcloneapp.ui.dashboard;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,7 +12,7 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.example.tvapp.R;
+import com.example.instagramcloneapp.R;
 
 public class DashboardFragment extends Fragment {
 
