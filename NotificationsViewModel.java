@@ -1,4 +1,4 @@
-package com.example.tvapp.ui.notifications;
+package com.example.instagramcloneapp.ui.notifications;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
