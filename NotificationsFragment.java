@@ -1,4 +1,4 @@
-package com.example.tvapp.ui.notifications;
+package com.example.instagramcloneapp.ui.notifications;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
