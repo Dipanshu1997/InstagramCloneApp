@@ -1,4 +1,4 @@
-package com.example.tvapp;
+package com.example.instagramcloneapp;
 
 import org.junit.Test;
 
